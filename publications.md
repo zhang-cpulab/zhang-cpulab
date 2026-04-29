@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-# Publications <span style="font-weight: normal; font-size: 1rem; margin-left: 6rem;">(For a complete list of publications, please visit my <a href="https://scholar.google.com/citations?user=nWYWiVUAAAAJ&hl=en">Google Scholar profile</a>.)</span>
+# Publications <span style="font-weight: normal; font-size: 1rem; margin-left: 6rem;">
 
 <style>
     h1 {
